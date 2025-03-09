@@ -1,4 +1,4 @@
-# SDF models for 3D printinga
+# SDF models for 3D printing
  
 Various models for 3d printing, in signed distance function (SDF) format.
 
