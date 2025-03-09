@@ -1,2 +1,5 @@
-# 3d_print_sdf
-Various models for 3d printing, in SDF format
+# SDF models for 3D printinga
+ 
+Various models for 3d printing, in signed distance function (SDF) format.
+
+https://github.com/fogleman/sdf is used for model generation.
